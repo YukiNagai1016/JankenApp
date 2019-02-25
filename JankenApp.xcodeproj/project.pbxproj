@@ -12,6 +12,9 @@
 		EF633C4021E5DF6D0068318D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF633C3E21E5DF6D0068318D /* Main.storyboard */; };
 		EF633C4221E5DF6E0068318D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF633C4121E5DF6E0068318D /* Assets.xcassets */; };
 		EF633C4521E5DF6E0068318D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF633C4321E5DF6E0068318D /* LaunchScreen.storyboard */; };
+		EF633C4D21E5E1AF0068318D /* gu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF633C4C21E5E1AF0068318D /* gu.jpg */; };
+		EF633C4F21E5E1B60068318D /* tyoki.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF633C4E21E5E1B60068318D /* tyoki.jpg */; };
+		EF633C5121E5E1BC0068318D /* pa.png in Resources */ = {isa = PBXBuildFile; fileRef = EF633C5021E5E1BC0068318D /* pa.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		EF633C4121E5DF6E0068318D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF633C4421E5DF6E0068318D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF633C4621E5DF6E0068318D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF633C4C21E5E1AF0068318D /* gu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gu.jpg; sourceTree = "<group>"; };
+		EF633C4E21E5E1B60068318D /* tyoki.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tyoki.jpg; sourceTree = "<group>"; };
+		EF633C5021E5E1BC0068318D /* pa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pa.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 				EF633C3C21E5DF6D0068318D /* ViewController.swift */,
 				EF633C3E21E5DF6D0068318D /* Main.storyboard */,
 				EF633C4121E5DF6E0068318D /* Assets.xcassets */,
+				EF633C4C21E5E1AF0068318D /* gu.jpg */,
+				EF633C4E21E5E1B60068318D /* tyoki.jpg */,
+				EF633C5021E5E1BC0068318D /* pa.png */,
 				EF633C4321E5DF6E0068318D /* LaunchScreen.storyboard */,
 				EF633C4621E5DF6E0068318D /* Info.plist */,
 			);
@@ -125,6 +134,9 @@
 				EF633C4521E5DF6E0068318D /* LaunchScreen.storyboard in Resources */,
 				EF633C4221E5DF6E0068318D /* Assets.xcassets in Resources */,
 				EF633C4021E5DF6D0068318D /* Main.storyboard in Resources */,
+				EF633C5121E5E1BC0068318D /* pa.png in Resources */,
+				EF633C4D21E5E1AF0068318D /* gu.jpg in Resources */,
+				EF633C4F21E5E1B60068318D /* tyoki.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
